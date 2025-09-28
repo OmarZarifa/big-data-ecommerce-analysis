@@ -64,5 +64,7 @@ big-data-ecommerce-analysis/
 ```
 
 ## Authors
-- YOUR_NAME_HERE (add LinkedIn or email)
+- Omar Zarifa  
+  [LinkedIn](https://www.linkedin.com/in/omar-zarifa-36b061ab)
+
 ```
