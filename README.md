@@ -64,7 +64,7 @@ big-data-ecommerce-analysis/
 ```
 
 ## Authors
-- Omar Zarifa  
+- Omar Zarifa  & Nedim Kanat
   [LinkedIn](https://www.linkedin.com/in/omar-zarifa-36b061ab)
 
 ```
