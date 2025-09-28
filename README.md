@@ -62,9 +62,3 @@ big-data-ecommerce-analysis/
 └── data/
     └── .gitkeep
 ```
-
-## Authors
-- Omar Zarifa  & Nedim Kanat
-  [LinkedIn](https://www.linkedin.com/in/omar-zarifa-36b061ab)
-
-```
